@@ -1,4 +1,5 @@
 from machine import Pin
+
 # Configurar o pino da chave e o pino do LED
 A = Pin(13, Pin.IN)
 B = Pin(12, Pin.IN)
